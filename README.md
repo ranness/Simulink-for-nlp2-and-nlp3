@@ -1,4 +1,4 @@
-# ranness
+# Practice
 
 This is practice of nonlinear filter which is an example of optimal trajectory generation.
 
